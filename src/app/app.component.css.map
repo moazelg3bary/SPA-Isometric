@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,+BAA+B;AAM/B,6BAA6B;AAE7B,gCAAgC;AAGhC,8BAA8B;AAE9B,mCAAmC;AAGnC,iCAAiC;AAEjC,0BAA0B;AAG1B,0BAA0B;ACpB1B,IAAK;EACD,gBAAgB,EAAE,IAAI;;;AAG1B,KAAM;EACF,KAAK,EAAE,IAAI",
+"sources": ["sass/variables/_variables.scss","sass/components/_components.scss"],
+"names": [],
+"file": "app.component.css"
+}
