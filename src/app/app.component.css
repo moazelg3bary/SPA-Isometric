@@ -6,6 +6,7 @@
 /*End Variables Float Diraction*/
 /*Start Variables Helprs*/
 /*Start Variables Helprs*/
+/******** start style header ********/
 header {
   background-color: #1f1f1f05;
 }
@@ -111,6 +112,7 @@ header .img img {
   height: auto;
 }
 
+/******** end style header ********/
 /******** start style content ********/
 .content-1, .content-2, .content-3 {
   margin: 120px 0;
@@ -149,11 +151,65 @@ header .img img {
   background-color: #0dafde;
 }
 
-/******** start style content ********/
+/******** end style content ********/
+/******** start style footer ********/
+footer {
+  padding: 30px 0 0 20px;
+  background-color: #0dafde;
+}
+footer .pre-footer {
+  border-bottom: 2px solid #fefefe7a;
+}
+footer .pre-footer ul {
+  list-style-type: none;
+  padding: 0;
+}
+footer .pre-footer ul li {
+  margin-bottom: 5px;
+}
+footer .pre-footer ul li:first-of-type {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+footer .pre-footer ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+footer .pre-footer .link-media a {
+  color: #fff;
+  display: block;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+footer .pre-footer .link-media a i {
+  font-weight: 100;
+}
+footer .pre-footer .link-media ul li {
+  margin-right: 10px;
+  display: inline-block;
+}
+footer .pre-footer .link-media ul li:first-of-type {
+  margin-bottom: 0;
+}
+footer .cpy {
+  padding: 15px 0;
+}
+footer .cpy a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+/******** end style footer ********/
+/******** start style other media ********/
 @media only screen and (max-width: 768px) {
   .nav-item {
     margin: 5px 0px !important;
   }
 }
+/******** start style other media ********/
 
 /*# sourceMappingURL=app.component.css.map */
