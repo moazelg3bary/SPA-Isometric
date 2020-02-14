@@ -1,0 +1,65 @@
+/******** start style about ********/
+:host {
+    display: block;
+}
+.about {
+    h1 {
+        margin: 20px 0;
+        text-align: center;
+        text-transform: $text-upper;
+        i {
+            color: $mainColorText;
+        }
+    }
+    .us {
+        font-size: 20px;
+        margin-bottom: 10px;
+        padding-bottom: 5px;
+        display: inline-block;
+        border-bottom: 2px solid $mainColorText;
+        i {
+            color: $mainColorText;
+        }
+    }
+    .cont-img img  {
+        max-width: 100%;
+        height: auto;
+    }
+    .cont {
+        align-items: flex-end;
+        .card-info {
+            margin: 50px 0;
+            position: relative;
+            overflow: hidden;
+            cursor: pointer;
+            &:hover .text {
+                bottom: 0;
+            }
+            .cont-img img {
+                width: 100%;
+                height: auto;
+                max-width: 100%;
+            }
+            .text {
+                bottom: -100%;
+                left: 0;
+                right: 0;
+                width: 100%;
+                position: absolute;
+                background-color: #0aacdba3;
+                @include browse(transition, all .4s ease-in-out, webkit moz ms o);
+                p {
+                    color: #fff;
+                    font-weight: 600;
+                    text-align: center;
+                    display: inline-block;
+                    margin-bottom: 0;
+                    i {
+                        color: #575989;
+                    }
+                }
+            }
+        }
+    }
+}
+/******** end style about ********/

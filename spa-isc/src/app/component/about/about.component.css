@@ -1,0 +1,82 @@
+/*Start Variables Media Query*/
+/*End Variables Media Query*/
+/*Start Variables Colors Pages*/
+/*End Variables Colors Pages*/
+/*Start Variables Float Diraction*/
+/*End Variables Float Diraction*/
+/*Start Variables Helprs*/
+/*End Variables Helprs*/
+/*Start Variables Font*/
+/******** start style about ********/
+:host {
+  display: block;
+}
+
+.about h1 {
+  margin: 20px 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+.about h1 i {
+  color: #0dafde;
+}
+.about .us {
+  font-size: 20px;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+  display: inline-block;
+  border-bottom: 2px solid #0dafde;
+}
+.about .us i {
+  color: #0dafde;
+}
+.about .cont-img img {
+  max-width: 100%;
+  height: auto;
+}
+.about .cont {
+  align-items: flex-end;
+}
+.about .cont .card-info {
+  margin: 50px 0;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+.about .cont .card-info:hover .text {
+  bottom: 0;
+}
+.about .cont .card-info .cont-img img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+.about .cont .card-info .text {
+  bottom: -100%;
+  left: 0;
+  right: 0;
+  width: 100%;
+  position: absolute;
+  background-color: #0aacdba3;
+  transition: all 0.4s ease-in-out;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+}
+.about .cont .card-info .text p {
+  color: #fff;
+  font-weight: 600;
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 0;
+}
+.about .cont .card-info .text p i {
+  color: #575989;
+}
+
+/******** end style about ********/
+/******** start style other media ********/
+/******** start style other media ********/
+
+/*# sourceMappingURL=about.component.css.map */
