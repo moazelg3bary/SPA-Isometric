@@ -8,13 +8,14 @@
 /*Start Variables Helprs*/
 /******** start style header ********/
 header {
-  background-color: #1f1f1f05;
+  background-color: #fff;
 }
 header nav {
-  background-color: transparent;
   padding-left: 0;
   padding-right: 0;
   margin-bottom: 50px;
+  white-space: nowrap;
+  background-color: transparent;
 }
 header nav .navbar-brand {
   font-weight: 500;
@@ -115,7 +116,7 @@ header .img img {
 /******** end style header ********/
 /******** start style footer ********/
 footer {
-  padding: 30px 0 0 20px;
+  padding: 30px 0 0 0;
   background-color: #0dafde;
 }
 footer .pre-footer {

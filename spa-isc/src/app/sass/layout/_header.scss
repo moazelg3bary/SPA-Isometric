@@ -1,11 +1,12 @@
 /******** start style header ********/
 header {
-    background-color: #1f1f1f05;
+    background-color: #fff;
     nav { // Start Style Nav-bar
-        background-color: transparent;
         padding-left: 0;
         padding-right: 0;
         margin-bottom: 50px;
+        white-space: nowrap;
+        background-color: transparent;
         .navbar-brand {
             font-weight: 500;
             /*$name vars sass*/
