@@ -7,8 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   constructor() {
-    window.onscroll = () => {
-      console.log(window.scrollbars)
-    }
   }
 }

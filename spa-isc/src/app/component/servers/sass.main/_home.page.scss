@@ -1,0 +1,54 @@
+:host {
+    display: block;
+}
+.servers {
+    .title {
+        margin: 20px 0;
+        h1 {
+            text-align: center;
+            text-transform: $text-upper;
+            i {
+                color: $mainColorText;
+            }
+        }
+    }
+    .websit, .app-mobil, .securt, .host {
+        padding: 0 15px;
+        margin-bottom: 40px;
+        background-color: #fff;
+        box-shadow: 0px 1px 5px #dcdcdc;
+        h4 {
+            padding-top: 15px;
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 15px;
+            i {
+                color: $mainColorText;
+            }
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+            li::before {
+                content: '\f058';
+                font-weight: 900;
+                margin-right: 5px;
+                color: $mainColorText;
+                font-family: $awesome-pro;
+            }
+        }
+        .content {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            .cont-img {
+                width: 250px;
+                img {
+                    max-width: 100%;
+                    height: auto;
+                    width: 100%;
+                }
+            }
+        }
+    }
+}

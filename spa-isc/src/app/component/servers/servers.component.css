@@ -1,0 +1,67 @@
+/*Start Variables Media Query*/
+/*End Variables Media Query*/
+/*Start Variables Colors Pages*/
+/*End Variables Colors Pages*/
+/*Start Variables Float Diraction*/
+/*End Variables Float Diraction*/
+/*Start Variables Helprs*/
+/*End Variables Helprs*/
+/*Start Variables Font*/
+:host {
+  display: block;
+}
+
+.servers .title {
+  margin: 20px 0;
+}
+.servers .title h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+.servers .title h1 i {
+  color: #0dafde;
+}
+.servers .websit, .servers .app-mobil, .servers .securt, .servers .host {
+  padding: 0 15px;
+  margin-bottom: 40px;
+  background-color: #fff;
+  box-shadow: 0px 1px 5px #dcdcdc;
+}
+.servers .websit h4, .servers .app-mobil h4, .servers .securt h4, .servers .host h4 {
+  padding-top: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.servers .websit h4 i, .servers .app-mobil h4 i, .servers .securt h4 i, .servers .host h4 i {
+  color: #0dafde;
+}
+.servers .websit ul, .servers .app-mobil ul, .servers .securt ul, .servers .host ul {
+  list-style-type: none;
+  padding: 0;
+}
+.servers .websit ul li::before, .servers .app-mobil ul li::before, .servers .securt ul li::before, .servers .host ul li::before {
+  content: '\f058';
+  font-weight: 900;
+  margin-right: 5px;
+  color: #0dafde;
+  font-family: "Font Awesome 5 Pro";
+}
+.servers .websit .content, .servers .app-mobil .content, .servers .securt .content, .servers .host .content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.servers .websit .content .cont-img, .servers .app-mobil .content .cont-img, .servers .securt .content .cont-img, .servers .host .content .cont-img {
+  width: 250px;
+}
+.servers .websit .content .cont-img img, .servers .app-mobil .content .cont-img img, .servers .securt .content .cont-img img, .servers .host .content .cont-img img {
+  max-width: 100%;
+  height: auto;
+  width: 100%;
+}
+
+/******** start style other media ********/
+/******** start style other media ********/
+
+/*# sourceMappingURL=servers.component.css.map */
