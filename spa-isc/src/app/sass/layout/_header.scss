@@ -1,3 +1,11 @@
+/******** start edit class bootstrap 4 ********/
+.fixed-top {
+    top: -100% !important;
+}
+/******** end edit class bootstrap 4 ********/
+
+
+
 /******** start style header ********/
 header {
     background-color: #fff;
@@ -6,7 +14,12 @@ header {
         padding-right: 0;
         margin-bottom: 50px;
         white-space: nowrap;
-        background-color: transparent;
+        background-color: #fff;
+        @include browse(transition, all .3s ease-in-out, o ms moz webkit);
+        &.active {
+            top: 0px !important;
+            @include browse(box-shadow, 0px 0px 3px #c5c5c5, o ms moz webkit)
+        }
         .navbar-brand {
             font-weight: 500;
             /*$name vars sass*/

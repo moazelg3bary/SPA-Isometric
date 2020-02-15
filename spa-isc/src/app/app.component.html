@@ -1,7 +1,7 @@
 <!-- Start Header -->
 <header>
     <!-- Start Nav-Bar Bootstrap 4 -->
-    <nav class="navbar navbar-expand-md navbar-light">
+    <nav class="navbar navbar-expand-md navbar-light" [class.fixed-top]="scrollDown > 90" [class.active]="scrollDown > 90">
         <!-- start class container bootstrap 4 -->
         <div class="container">
             <a class="navbar-brand active" href="#">Icon</a>
@@ -37,7 +37,7 @@
     <!-- Start Nav-Bar Bootstrap 4 -->
 </header>
 <!-- End Header -->
-<router-outlet class="r"></router-outlet>
+<router-outlet></router-outlet>
 <!-- start footer -->
 <footer>
     <div class="container">

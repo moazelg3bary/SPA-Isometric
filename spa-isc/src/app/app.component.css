@@ -5,7 +5,14 @@
 /*Start Variables Float Diraction*/
 /*End Variables Float Diraction*/
 /*Start Variables Helprs*/
-/*Start Variables Helprs*/
+/*End Variables Helprs*/
+/*Start Variables Font*/
+/******** start edit class bootstrap 4 ********/
+.fixed-top {
+  top: -100% !important;
+}
+
+/******** end edit class bootstrap 4 ********/
 /******** start style header ********/
 header {
   background-color: #fff;
@@ -15,7 +22,20 @@ header nav {
   padding-right: 0;
   margin-bottom: 50px;
   white-space: nowrap;
-  background-color: transparent;
+  background-color: #fff;
+  transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+}
+header nav.active {
+  top: 0px !important;
+  box-shadow: 0px 0px 3px #c5c5c5;
+  -o-box-shadow: 0px 0px 3px #c5c5c5;
+  -ms-box-shadow: 0px 0px 3px #c5c5c5;
+  -moz-box-shadow: 0px 0px 3px #c5c5c5;
+  -webkit-box-shadow: 0px 0px 3px #c5c5c5;
 }
 header nav .navbar-brand {
   font-weight: 500;
