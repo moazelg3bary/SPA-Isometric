@@ -1,0 +1,105 @@
+/*Start Variables Media Query*/
+/*End Variables Media Query*/
+/*Start Variables Colors Pages*/
+/*End Variables Colors Pages*/
+/*Start Variables Float Diraction*/
+/*End Variables Float Diraction*/
+/*Start Variables Helprs*/
+/*End Variables Helprs*/
+/*Start Variables Font*/
+/******** start style blog ********/
+:host {
+  display: block;
+}
+
+.blog .cont-img img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+}
+.blog .link p {
+  font-weight: 600;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+.blog .link a {
+  color: #0dafde;
+  text-transform: capitalize;
+}
+.blog .link a:not(:last-of-type) {
+  padding-right: 5px;
+  margin-right: 5px;
+  border-right: 2px solid;
+}
+.blog .text {
+  padding: 25px;
+  margin: 75px 50px;
+  position: relative;
+}
+.blog .text div:first-of-type {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2px;
+  height: 100%;
+  background-color: #0dafde;
+}
+.blog .text :nth-of-type(2) h3 {
+  margin-bottom: 15px;
+}
+.blog .text :nth-of-type(2) a {
+  font-size: 13px;
+  color: #808080;
+  text-decoration: none;
+}
+.blog .text :nth-of-type(2) a span {
+  text-decoration: underline;
+}
+.blog .text :nth-of-type(2) a span:hover {
+  color: #0dafde;
+}
+.blog .text div:last-of-type {
+  position: absolute;
+  bottom: 0;
+  left: 15px;
+  right: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #afafaf;
+}
+.blog .text-2 {
+  margin: 0 50px 50px 50px;
+  position: relative;
+}
+.blog .text-2 div:first-of-type {
+  padding-bottom: 20px;
+}
+.blog .text-2 div:first-of-type h3 {
+  margin-bottom: 15px;
+}
+.blog .text-2 div:first-of-type a {
+  font-size: 13px;
+  color: #808080;
+  text-decoration: none;
+}
+.blog .text-2 div:first-of-type a span {
+  text-decoration: underline;
+}
+.blog .text-2 div:first-of-type a span:hover {
+  color: #0dafde;
+}
+.blog .text-2 div:last-of-type {
+  position: absolute;
+  bottom: 0;
+  left: 15px;
+  right: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #afafaf;
+}
+
+/******** end style blog ********/
+/******** start style other media ********/
+/******** start style other media ********/
+
+/*# sourceMappingURL=blog.component.css.map */
