@@ -1,0 +1,49 @@
+/******** start style contact ********/
+:host {
+    display: block;
+}
+.contact {
+    .title  h1 {
+        margin: 20px 0;
+        text-align: center;
+        text-transform: uppercase;
+        i {
+            color: $mainColorText;
+        }
+    }
+    form {
+        height: 600px;
+        padding: 20px 10px;
+        @include browse(border-radius, 3px, o ms moz webkit);
+        @include browse(box-shadow, 0px 0px 3px #e0e0e0, o ms moz webkit);
+        .input {
+            label {
+                color: $mainColorText;
+                text-transform: capitalize;
+            }
+            input[type=text] {
+                width: 75%;
+                border: none;
+                height: 35px;
+                display: block;
+                font-size: 20px;
+                background: none;
+                border: 1px solid;
+                @include browse(border-radius, 3px, o ms moz webkit);
+            }
+        }
+        .text-ar {
+            margin-top: 50px;
+            label {
+                color: $mainColorText;
+                text-transform: capitalize;
+            }
+            textarea {
+                width: 100%;
+                display: block;
+                @include browse(border-radius, 3px, o ms moz webkit);
+            }
+        }
+    }
+}
+/******** end style contact ********/
