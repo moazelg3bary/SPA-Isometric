@@ -3,59 +3,63 @@
     display: block;
 }
 .about {
-    h1 {
-        margin: 20px 0;
-        text-align: center;
-        text-transform: $text-upper;
-        i {
-            color: $mainColorText;
-        }
-    }
-    .us {
-        font-size: 20px;
-        margin-bottom: 10px;
-        padding-bottom: 5px;
-        display: inline-block;
-        border-bottom: 2px solid $mainColorText;
-        i {
-            color: $mainColorText;
-        }
-    }
-    .cont-img img  {
-        max-width: 100%;
-        height: auto;
-    }
-    .cont {
-        align-items: flex-end;
-        .card-info {
-            margin: 50px 0;
-            position: relative;
-            overflow: hidden;
-            cursor: pointer;
-            &:hover .text {
-                bottom: 0;
+    margin-bottom: 70px;
+    .container {
+        border-bottom: 2px solid #eee;
+        h1 {
+            margin: 20px 0;
+            text-align: center;
+            text-transform: $text-upper;
+            i {
+                color: $mainColorText;
             }
-            .cont-img img {
-                width: 100%;
-                height: auto;
-                max-width: 100%;
+        }
+        .us {
+            font-size: 20px;
+            margin-bottom: 10px;
+            padding-bottom: 5px;
+            display: inline-block;
+            border-bottom: 2px solid $mainColorText;
+            i {
+                color: $mainColorText;
             }
-            .text {
-                bottom: -100%;
-                left: 0;
-                right: 0;
-                width: 100%;
-                position: absolute;
-                background-color: #0aacdba3;
-                @include browse(transition, all .4s ease-in-out, webkit moz ms o);
-                p {
-                    color: #fff;
-                    font-weight: 600;
-                    text-align: center;
-                    display: inline-block;
-                    margin-bottom: 0;
-                    i {
-                        color: #575989;
+        }
+        .cont-img img  {
+            max-width: 100%;
+            height: auto;
+        }
+        .cont {
+            align-items: flex-end;
+            .card-info {
+                margin: 50px 0;
+                position: relative;
+                overflow: hidden;
+                cursor: pointer;
+                &:hover .text {
+                    bottom: 0;
+                }
+                .cont-img img {
+                    width: 100%;
+                    height: auto;
+                    max-width: 100%;
+                }
+                .text {
+                    bottom: -100%;
+                    left: 0;
+                    right: 0;
+                    width: 100%;
+                    position: absolute;
+                    background-color: #0aacdba3;
+                    @include browse(transition, all .4s ease-in-out, webkit moz ms o);
+                    p {
+                        color: #fff;
+                        font-weight: 600;
+                        text-align: center;
+                        display: inline-block;
+                        margin-bottom: 0;
+                        i {
+                            color: #575989;
+                        }
                     }
                 }
             }
@@ -63,3 +67,50 @@
     }
 }
 /******** end style about ********/
+
+/******** start style contact ********/
+.contact {
+    .title  h1 {
+        margin: 20px 0;
+        text-align: center;
+        text-transform: uppercase;
+        i {
+            color: $mainColorText;
+        }
+    }
+    form {
+        height: 600px;
+        padding: 20px 10px;
+        @include browse(border-radius, 3px, o ms moz webkit);
+        @include browse(box-shadow, 0px 0px 3px #e0e0e0, o ms moz webkit);
+        .input {
+            label {
+                color: $mainColorText;
+                text-transform: capitalize;
+            }
+            input[type=text] {
+                width: 75%;
+                border: none;
+                height: 35px;
+                display: block;
+                font-size: 20px;
+                background: none;
+                border: 1px solid;
+                @include browse(border-radius, 3px, o ms moz webkit);
+            }
+        }
+        .text-ar {
+            margin-top: 50px;
+            label {
+                color: $mainColorText;
+                text-transform: capitalize;
+            }
+            textarea {
+                width: 100%;
+                display: block;
+                @include browse(border-radius, 3px, o ms moz webkit);
+            }
+        }
+    }
+}
+/******** end style contact ********/

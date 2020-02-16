@@ -12,46 +12,52 @@
   display: block;
 }
 
-.about h1 {
+.about {
+  margin-bottom: 70px;
+}
+.about .container {
+  border-bottom: 2px solid #eee;
+}
+.about .container h1 {
   margin: 20px 0;
   text-align: center;
   text-transform: uppercase;
 }
-.about h1 i {
+.about .container h1 i {
   color: #0dafde;
 }
-.about .us {
+.about .container .us {
   font-size: 20px;
   margin-bottom: 10px;
   padding-bottom: 5px;
   display: inline-block;
   border-bottom: 2px solid #0dafde;
 }
-.about .us i {
+.about .container .us i {
   color: #0dafde;
 }
-.about .cont-img img {
+.about .container .cont-img img {
   max-width: 100%;
   height: auto;
 }
-.about .cont {
+.about .container .cont {
   align-items: flex-end;
 }
-.about .cont .card-info {
+.about .container .cont .card-info {
   margin: 50px 0;
   position: relative;
   overflow: hidden;
   cursor: pointer;
 }
-.about .cont .card-info:hover .text {
+.about .container .cont .card-info:hover .text {
   bottom: 0;
 }
-.about .cont .card-info .cont-img img {
+.about .container .cont .card-info .cont-img img {
   width: 100%;
   height: auto;
   max-width: 100%;
 }
-.about .cont .card-info .text {
+.about .container .cont .card-info .text {
   bottom: -100%;
   left: 0;
   right: 0;
@@ -64,18 +70,77 @@
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
 }
-.about .cont .card-info .text p {
+.about .container .cont .card-info .text p {
   color: #fff;
   font-weight: 600;
   text-align: center;
   display: inline-block;
   margin-bottom: 0;
 }
-.about .cont .card-info .text p i {
+.about .container .cont .card-info .text p i {
   color: #575989;
 }
 
 /******** end style about ********/
+/******** start style contact ********/
+.contact .title h1 {
+  margin: 20px 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+.contact .title h1 i {
+  color: #0dafde;
+}
+.contact form {
+  height: 600px;
+  padding: 20px 10px;
+  border-radius: 3px;
+  -o-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  box-shadow: 0px 0px 3px #e0e0e0;
+  -o-box-shadow: 0px 0px 3px #e0e0e0;
+  -ms-box-shadow: 0px 0px 3px #e0e0e0;
+  -moz-box-shadow: 0px 0px 3px #e0e0e0;
+  -webkit-box-shadow: 0px 0px 3px #e0e0e0;
+}
+.contact form .input label {
+  color: #0dafde;
+  text-transform: capitalize;
+}
+.contact form .input input[type=text] {
+  width: 75%;
+  border: none;
+  height: 35px;
+  display: block;
+  font-size: 20px;
+  background: none;
+  border: 1px solid;
+  border-radius: 3px;
+  -o-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+}
+.contact form .text-ar {
+  margin-top: 50px;
+}
+.contact form .text-ar label {
+  color: #0dafde;
+  text-transform: capitalize;
+}
+.contact form .text-ar textarea {
+  width: 100%;
+  display: block;
+  border-radius: 3px;
+  -o-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+}
+
+/******** end style contact ********/
 /******** start style other media ********/
 /******** start style other media ********/
 
