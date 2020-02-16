@@ -31,71 +31,31 @@
   margin-right: 5px;
   border-right: 2px solid;
 }
-.blog .text {
-  padding: 25px;
+.blog .collp {
   margin: 75px 50px;
-  position: relative;
 }
-.blog .text div:first-of-type {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 2px;
-  height: 100%;
-  background-color: #0dafde;
+.blog .collp .card {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
 }
-.blog .text :nth-of-type(2) h3 {
-  margin-bottom: 15px;
+.blog .collp .card button {
+  padding: 0;
+  color: #000;
+  font-weight: 600;
+  border-bottom: 2px solid;
+  border-radius: 0;
+  -o-border-radius: 0;
+  -ms-border-radius: 0;
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
 }
-.blog .text :nth-of-type(2) a {
-  font-size: 13px;
-  color: #808080;
+.blog .collp .card button:hover {
   text-decoration: none;
-}
-.blog .text :nth-of-type(2) a span {
-  text-decoration: underline;
-}
-.blog .text :nth-of-type(2) a span:hover {
   color: #0dafde;
 }
-.blog .text div:last-of-type {
-  position: absolute;
-  bottom: 0;
-  left: 15px;
-  right: 0;
-  width: 100%;
-  height: 1px;
-  background-color: #afafaf;
-}
-.blog .text-2 {
-  margin: 0 50px 50px 50px;
-  position: relative;
-}
-.blog .text-2 div:first-of-type {
-  padding-bottom: 20px;
-}
-.blog .text-2 div:first-of-type h3 {
-  margin-bottom: 15px;
-}
-.blog .text-2 div:first-of-type a {
-  font-size: 13px;
-  color: #808080;
-  text-decoration: none;
-}
-.blog .text-2 div:first-of-type a span {
-  text-decoration: underline;
-}
-.blog .text-2 div:first-of-type a span:hover {
-  color: #0dafde;
-}
-.blog .text-2 div:last-of-type {
-  position: absolute;
-  bottom: 0;
-  left: 15px;
-  right: 0;
-  width: 100%;
-  height: 1px;
-  background-color: #afafaf;
+.blog .collp .card button i {
+  margin-left: 2px;
 }
 
 /******** end style blog ********/

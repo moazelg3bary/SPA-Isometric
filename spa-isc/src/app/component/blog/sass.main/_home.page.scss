@@ -24,73 +24,95 @@
             }
         }
     }
-    .text {
-        padding: 25px;
+    .collp {
         margin: 75px 50px;
-        position: relative;
-        div:first-of-type {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 2px;
-            height: 100%;
-            background-color: $mainGgColor;
-        }
-        :nth-of-type(2) {
-            h3 {
-                margin-bottom: 15px;
-            }
-            a {
-                font-size: 13px;
-                color: #808080;
-                text-decoration: none;
-                span {
-                    text-decoration: underline;
-                    &:hover {
-                        color: $mainColorText;
-                    }
+        .card {
+            margin-top: 10px;
+            margin-bottom: 20px;
+            border-bottom: 1px solid rgba(0,0,0,.125);
+            button {
+                padding: 0;
+                color: #000;
+                font-weight: 600;
+                border-bottom: 2px solid;
+                @include browse(border-radius, 0, o ms moz webkit);
+                &:hover {
+                    text-decoration: none;
+                    color: $mainColorText;
+                }
+                i {
+                    margin-left: 2px;
                 }
             }
         }
-        div:last-of-type {
-            position: absolute;
-            bottom: 0;
-            left: 15px;
-            right: 0;
-            width: 100%;
-            height: 1px;
-            background-color: #afafaf;
-        }
     }
-    .text-2 {
-        margin: 0 50px 50px 50px;
-        position: relative;
-        div:first-of-type {
-            padding-bottom: 20px;
-            h3 {
-                margin-bottom: 15px;
-            }
-            a {
-                font-size: 13px;
-                color: #808080;
-                text-decoration: none;
-                span {
-                    text-decoration: underline;
-                    &:hover {
-                        color: $mainColorText;
-                    }
-                }
-            }
-        }
-        div:last-of-type {
-            position: absolute;
-            bottom: 0;
-            left: 15px;
-            right: 0;
-            width: 100%;
-            height: 1px;
-            background-color: #afafaf;
-        }
-    }
+    // .text {
+    //     padding: 25px;
+    //     margin: 75px 50px;
+    //     position: relative;
+    //     div:first-of-type {
+    //         position: absolute;
+    //         top: 0;
+    //         left: 0;
+    //         width: 2px;
+    //         height: 100%;
+    //         background-color: $mainGgColor;
+    //     }
+    //     :nth-of-type(2) {
+    //         h3 {
+    //             margin-bottom: 15px;
+    //         }
+    //         a {
+    //             font-size: 13px;
+    //             color: #808080;
+    //             text-decoration: none;
+    //             span {
+    //                 text-decoration: underline;
+    //                 &:hover {
+    //                     color: $mainColorText;
+    //                 }
+    //             }
+    //         }
+    //     }
+    //     div:last-of-type {
+    //         position: absolute;
+    //         bottom: 0;
+    //         left: 15px;
+    //         right: 0;
+    //         width: 100%;
+    //         height: 1px;
+    //         background-color: #afafaf;
+    //     }
+    // }
+    // .text-2 {
+    //     margin: 0 50px 50px 50px;
+    //     position: relative;
+    //     div:first-of-type {
+    //         padding-bottom: 20px;
+    //         h3 {
+    //             margin-bottom: 15px;
+    //         }
+    //         a {
+    //             font-size: 13px;
+    //             color: #808080;
+    //             text-decoration: none;
+    //             span {
+    //                 text-decoration: underline;
+    //                 &:hover {
+    //                     color: $mainColorText;
+    //                 }
+    //             }
+    //         }
+    //     }
+    //     div:last-of-type {
+    //         position: absolute;
+    //         bottom: 0;
+    //         left: 15px;
+    //         right: 0;
+    //         width: 100%;
+    //         height: 1px;
+    //         background-color: #afafaf;
+    //     }
+    // }
 }
 /******** end style blog ********/
