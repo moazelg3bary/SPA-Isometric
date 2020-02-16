@@ -4,11 +4,18 @@
 }
 /******** end edit class bootstrap 4 ********/
 
+// style app.root
+:host {
+    display: block;
+}
 
 
 /******** start style header ********/
 header {
     background-color: #fff;
+    &.active {
+        margin-top: 100px;
+    }
     nav { // Start Style Nav-bar
         padding-left: 0;
         padding-right: 0;
