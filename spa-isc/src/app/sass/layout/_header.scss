@@ -7,6 +7,9 @@
 // style app.root
 :host {
     display: block;
+    header + div {
+        position: relative;;
+    }
 }
 
 

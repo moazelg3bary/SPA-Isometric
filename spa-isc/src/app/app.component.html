@@ -1,3 +1,14 @@
+<!-- start overflow -->
+<div class="overflow d-flex justify-content-center" *ngIf="onload">
+    <div class="lay">
+        <h3>
+            Loading
+            <i class="far fa-cog"></i>
+        </h3>
+    </div>
+</div>
+<!-- end overflow -->
+
 <!-- Start Header -->
 <header [class.active]="scrollDown > 90">
     <!-- Start Nav-Bar Bootstrap 4 -->
@@ -37,7 +48,11 @@
     <!-- Start Nav-Bar Bootstrap 4 -->
 </header>
 <!-- End Header -->
-<router-outlet></router-outlet>
+<!-- start content -->
+<div class="content" [@animate-component]='myoutlet.activatedRouteData.index'>
+    <router-outlet #myoutlet='outlet'></router-outlet>
+</div>
+<!-- end content -->
 <!-- start footer -->
 <footer>
     <div class="container">

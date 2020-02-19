@@ -16,6 +16,9 @@
 :host {
   display: block;
 }
+:host header + div {
+  position: relative;
+}
 
 /******** start style header ********/
 header {
