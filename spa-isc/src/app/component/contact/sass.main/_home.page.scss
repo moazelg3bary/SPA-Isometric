@@ -9,12 +9,16 @@
             font-size: 310px;
             color: #d6d6d6;
         }
-        p {
+        .title {
             margin-top: 50px;
-            color: $mainColorText;
+            p {
+                display: inline-block;
+                color: $mainColorText;
+            }
             i {
                 font-size: 25px;
                 margin-left: 10px;
+                display: inline-block;
             }
         }
     }

@@ -7,6 +7,10 @@
 /*Start Variables Helprs*/
 /*End Variables Helprs*/
 /*Start Variables Font*/
+:host {
+  display: block;
+}
+
 /******** start style content ********/
 .content-0, .content-1, .content-2, .content-3 {
   margin: 120px 0;

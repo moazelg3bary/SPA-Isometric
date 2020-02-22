@@ -19,13 +19,17 @@
   font-size: 310px;
   color: #d6d6d6;
 }
-.page-empty .error p {
+.page-empty .error .title {
   margin-top: 50px;
+}
+.page-empty .error .title p {
+  display: inline-block;
   color: #0dafde;
 }
-.page-empty .error p i {
+.page-empty .error .title i {
   font-size: 25px;
   margin-left: 10px;
+  display: inline-block;
 }
 
 /******** end style page-empty ********/

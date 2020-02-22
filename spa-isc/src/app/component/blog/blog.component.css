@@ -54,7 +54,8 @@
   text-decoration: none;
   color: #0dafde;
 }
-.blog .collp .card button i {
+.blog .collp .card i {
+  font-size: 17px;
   margin-left: 2px;
 }
 

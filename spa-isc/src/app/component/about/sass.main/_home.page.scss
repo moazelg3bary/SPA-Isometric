@@ -6,12 +6,18 @@
     margin-bottom: 70px;
     .container {
         border-bottom: 2px solid #eee;
-        h1 {
+        .title {
             margin: 20px 0;
             text-align: center;
-            text-transform: $text-upper;
             i {
+                margin: 0 10px;
+                font-size: 2.5rem;
+                display: inline-block;
                 color: $mainColorText;
+            }   
+            h1 {
+                display: inline-block;
+                text-transform: $text-upper;
             }
         }
         .us {
@@ -22,6 +28,12 @@
             border-bottom: 2px solid $mainColorText;
             i {
                 color: $mainColorText;
+            }
+            a {
+                color: #000;
+                &:hover {
+                    text-decoration: none;
+                }
             }
         }
         .cont-img img  {
@@ -44,10 +56,11 @@
                     max-width: 100%;
                 }
                 .text {
-                    bottom: -100%;
+                    bottom: -200%;
                     left: 0;
                     right: 0;
                     width: 100%;
+                    padding: 5px;
                     position: absolute;
                     background-color: #0aacdba3;
                     @include browse(transition, all .4s ease-in-out, webkit moz ms o);
@@ -57,9 +70,10 @@
                         text-align: center;
                         display: inline-block;
                         margin-bottom: 0;
-                        i {
-                            color: #575989;
-                        }
+                    }
+                    i {
+                        color: #575989;
+                        display: inline-block;
                     }
                 }
             }
@@ -70,12 +84,18 @@
 
 /******** start style contact ********/
 .contact {
-    .title  h1 {
+    .title {
         margin: 20px 0;
         text-align: center;
-        text-transform: uppercase;
         i {
+            margin: 0 10px;
+            font-size: 2.5rem;
+            display: inline-block;
             color: $mainColorText;
+        }   
+        h1 {
+            display: inline-block;
+            text-transform: $text-upper;
         }
     }
     form {

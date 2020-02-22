@@ -39,6 +39,10 @@
                 {
                   "replace": "src/environments/environment.ts",
                   "with": "src/environments/environment.prod.ts"
+                },
+                {
+                  "replace": "src/app/app.component.ar.css",
+                  "with": "src/app/app.component.css"
                 }
               ],
               "optimization": true,
@@ -62,6 +66,41 @@
                   "maximumError": "10kb"
                 }
               ]
+            },
+            "production-ar": {
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "aot": true,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "outputPath": "dist/SPA-Isometric-ar",
+              "i18nFile": "messages.ar.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "ar",
+              "i18nMissingTranslation": "error text",
+              "baseHref": "/ar",
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ]
             }
           }
         },
@@ -73,6 +112,9 @@
           "configurations": {
             "production": {
               "browserTarget": "SPA-Isometric:build:production"
+            },
+            "ar": {
+              "browserTarget": "SPA-Isometric:build:production-ar"
             }
           }
         },

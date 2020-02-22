@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="091ad013dbe4e623f472cea0d357d420300cd47c" datatype="html">
+        <source>Home<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>(current)<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aa4da924506fa8a7942007a529cc2ec8d500a093" datatype="html">
+        <source>Servers</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="004b222ff9ef9dd4771b777950ca1d0e4cd4348a" datatype="html">
+        <source>About</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="013acfd8797bf5ade4a15c71fa24178f913c4cae" datatype="html">
+        <source>Blog</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8380d9eff8613c0bc58edc7cebc2aa72e17b11e3" datatype="html">
+        <source>Page</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6498fe318720fee842c6cb2ae566f0e52bec7acb" datatype="html">
+        <source>ar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
+        <source>Home</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="98618249c5dbe05f69cf6e769c67827a7c9398c8" datatype="html">
+        <source>Serves</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="02e9e69ddcbf93de9fd38bc4d0f312142658610d" datatype="html">
+        <source>Contact Us</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b51b8af7e7dac2e758b87705b2c8ad072af3e4a6" datatype="html">
+        <source>AR</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e66790216b2995d999ff7568501f718572e0045f" datatype="html">
+        <source>Link 1</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="97740fff3724d150d2cba1271a5c94024fa884ad" datatype="html">
+        <source>Link 2</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e8ec63624c5d01ed09673b55006f7d0aaa0117f2" datatype="html">
+        <source>Link 3</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fe8ff1779ad0174fdea56f19a017c4d584dd3da3" datatype="html">
+        <source>Link 4</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d29764bcbaad3ef69b6be92be35bdf25972ce246" datatype="html">
+        <source>Follow</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b7d837ddb18bf0022667d7368ff5203c97ef9dd6" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> 4soft-company addres usa</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">143</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5da4abd7ac6379f701b8b6a4905662c101c7ce61" datatype="html">
+        <source>Launcing</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ab076bcd2b477157c26f96ca5f3bbf5a67a785a8" datatype="html">
+        <source>
+                    A Real Estate Agen&apos;ts
+                    <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+                    tech expericne
+                </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="65fab8655bd60dd9c296c21d1a50bdadf769f0e3" datatype="html">
+        <source>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab sint repellat reprehenderit,
+                    pariatur ratione in porro, laudantium nesciunt rerum consectetur fugit et dolore unde aperiam recusandae ea,
+                    distinctio quaerat placeat!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c46a038bca00e35ebd895f601726ee5086cf9e77" datatype="html">
+        <source>Get Start</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1c33e53383c1d8e87d33c51ec5ad951697c05fc1" datatype="html">
+        <source>Best Place</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fea2268908923716cfde2870bada44b02663ce72" datatype="html">
+        <source>
+                    Fast Securte and Always
+                </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="15cba848aff101221fe18512cbe982b320710613" datatype="html">
+        <source>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab sint repellat
+                    reprehenderit, pariatur ratione in porro, laudantium nesciunt rerum consectetur fugit et dolore unde
+                    aperiam recusandae ea, distinctio quaerat placeat!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7f390118762e2d9bd3757f398682f4fa0c0827c7" datatype="html">
+        <source>Content Us</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="eac348de76f465fc94b43e827ce01a8b6e24e5c9" datatype="html">
+        <source>
+                    <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>
+                    servers
+                </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cb1da71f91c91c7cea8da1a8960dae50e0dc2155" datatype="html">
+        <source>
+                    <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>
+                    Websit
+                </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9c1b342cb36736db74f2f041f7ce54e73ca7da60" datatype="html">
+        <source>item 1</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a5b965cfbdc8e62ad1e1a40d210a8e1dc6204ef3" datatype="html">
+        <source>item 2</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="29d90b5ec6249d851a6a8e4efe0c7a05f8ec4be1" datatype="html">
+        <source>item 3</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b5c4a43abf7e8721ce6673a7423a41e3b3a58138" datatype="html">
+        <source>item 4</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3ef83b4a0c5869f7564f8e32d5a3543386702f6" datatype="html">
+        <source>
+                        <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>
+                        Mobil app
+                    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="56dc3a6a3c87c7610cb4c4789584c23f8d0f5ac7" datatype="html">
+        <source>
+                        <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>
+                        security
+                    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="22c5f961f794c5d9883aa4f25cedc35a7d1369ae" datatype="html">
+        <source>
+                    <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>
+                    Hosting
+                </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cde5902c05cf822c16c26b8d0fd0b39bcf8c843e" datatype="html">
+        <source>
+                    <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>
+                    About
+                </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8efddcfa78dcb4866ef40e679f9c0a4ed4166417" datatype="html">
+        <source>
+                            <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>
+                            who we are
+                        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4474a016a3359d209624f24ba025967b20359370" datatype="html">
+        <source>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit molestias accusantium similique nesciunt minus
+                            aut
+                            non, quod nihil corporis odit ab obcaecati repellendus? Voluptate omnis at, eveniet voluptatum expedita alias?
+                        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d31b7201d6ba56de524c4f2858f014ab7708eb01" datatype="html">
+        <source>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates incidunt
+                            <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>
+                        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8fd0880c24c498d119cf3e8d6970ba51ed779143" datatype="html">
+        <source>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates incidunt?
+                            <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>
+                        </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d421ca699480c47bb48a581bb88cf8e74be9d3d9" datatype="html">
+        <source>
+                    <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>
+                    Contact us
+                </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="596d7a2a889fac10c2cf9b0a73b01e4471fa6a94" datatype="html">
+        <source>emil</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4c47b69693858b1da6eba8b99b358b0d331312a8" datatype="html">
+        <source>address</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8865ed3834a850ae6123ce54f380aac3f0b88fe2" datatype="html">
+        <source>Message:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="96687c0bb1618a05f053f678338684479bdfd614" datatype="html">
+        <source>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas, blanditiis? Aut dolore quibusdam
+                    neque magnam aliquam
+                </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a3a3b1c534238915ded9cb08572e8f3ce69b91d2" datatype="html">
+        <source>twitter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="eb0b068b28f551b40e420e7f9f570fa1ca9c2fb5" datatype="html">
+        <source>facebook</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="836f64ba877c92bdecc5305ad04d4a65181bcf24" datatype="html">
+        <source>Stack overflow</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="56e0937e266871efb21a7a0d002a6714b1c8b4f4" datatype="html">
+        <source>
+                                    Collapsible Group Item <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>
+                                </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2148f4fea586eedc4cd9768053a88856b434e71d" datatype="html">
+        <source>
+                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
+                                moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+                                Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda
+                                shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea
+                                proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim
+                                aesthetic synth nesciunt you probably haven&apos;t heard of them accusamus labore sustainable VHS.
+                            </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">115</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="470e8acca24edb2b985f92dc61b560caeea425d9" datatype="html">
+        <source>
+                    Some time an error occurs!
+                    If you are a genius solve this error
+                    <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>
+                </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/contact/contact.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

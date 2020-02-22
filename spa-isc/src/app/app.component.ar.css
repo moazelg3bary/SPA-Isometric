@@ -1,0 +1,80 @@
+/*Start Globale classes ar style*/
+.txt-right {
+    text-align: right !important
+}
+.dir-right {
+    direction: rtl !important
+}
+
+/*start class flex-box & prevfix*/
+.d-fx {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -o-flex;
+    display: flex;
+}
+.fx-row-r {
+    -moz-box-direction: reverse;
+    -ms-flex-direction: row-reverse;
+    -webkit-flex-direction: row-reverse;
+    -o-flex-direction: row-reverse;
+    flex-direction: row-reverse;
+}
+/*End Globale classes ar style*/
+
+/*Glovale style element*/
+/* ul {
+    padding-right: 0;
+} */
+
+/* start style app-servers */
+.servers .websit ul li::before, .servers .app-mobil ul li::before, .servers .securt ul li::before, .servers .host ul li::before {
+    display: none !important;
+}
+.servers .websit ul li::after, .servers .app-mobil ul li::after, .servers .securt ul li::after, .servers .host ul li::after {
+  content: '\f058';
+  font-weight: 900;
+  margin-left: 5px;
+  color: #0dafde;
+  font-family: "Font Awesome 5 Pro";
+}
+/* end style app-servers */
+
+/* start style app-about */
+.about .container .us .fa-hand-point-right::before {
+  content: "\f0a5";
+}
+/* end style app-about */
+
+/* start style app-blog */
+@media (min-width: 768px) {
+    .link {
+        text-align: right !important
+    }
+}
+.blog .link a:not(:last-of-type) {
+    padding-right: 0;
+    margin-right: 0;
+    border-right: 0 solid;
+    padding-left: 5px;
+    margin-left: 5px;
+    border-left: 2px solid;
+}
+.blog .collp .card i {
+  margin-left: 0;
+  margin-right: 2px;
+  transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+}
+/* end style app-blog */
+
+/* start style app-page */
+.page-empty .error i {
+  margin-left: 0;
+  margin-right: 5px;
+}
+/* end style app-page */

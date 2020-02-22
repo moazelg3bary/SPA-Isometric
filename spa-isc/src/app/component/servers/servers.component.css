@@ -13,13 +13,17 @@
 
 .servers .title {
   margin: 20px 0;
+  text-align: center;
+}
+.servers .title i {
+  margin: 0 10px;
+  font-size: 2.5rem;
+  display: inline-block;
+  color: #0dafde;
 }
 .servers .title h1 {
-  text-align: center;
+  display: inline-block;
   text-transform: uppercase;
-}
-.servers .title h1 i {
-  color: #0dafde;
 }
 .servers .websit, .servers .app-mobil, .servers .securt, .servers .host {
   padding: 0 15px;
@@ -27,14 +31,19 @@
   background-color: #fff;
   box-shadow: 0px 1px 5px #dcdcdc;
 }
-.servers .websit h4, .servers .app-mobil h4, .servers .securt h4, .servers .host h4 {
+.servers .websit .title-s, .servers .app-mobil .title-s, .servers .securt .title-s, .servers .host .title-s {
   padding-top: 15px;
   text-align: center;
-  text-transform: uppercase;
-  font-size: 15px;
 }
-.servers .websit h4 i, .servers .app-mobil h4 i, .servers .securt h4 i, .servers .host h4 i {
+.servers .websit .title-s i, .servers .app-mobil .title-s i, .servers .securt .title-s i, .servers .host .title-s i {
+  margin: 0 8px;
   color: #0dafde;
+  display: inline-block;
+}
+.servers .websit .title-s h4, .servers .app-mobil .title-s h4, .servers .securt .title-s h4, .servers .host .title-s h4 {
+  font-size: 15px;
+  display: inline-block;
+  text-transform: uppercase;
 }
 .servers .websit ul, .servers .app-mobil ul, .servers .securt ul, .servers .host ul {
   list-style-type: none;

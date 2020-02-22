@@ -18,13 +18,19 @@
 .about .container {
   border-bottom: 2px solid #eee;
 }
-.about .container h1 {
+.about .container .title {
   margin: 20px 0;
   text-align: center;
-  text-transform: uppercase;
 }
-.about .container h1 i {
+.about .container .title i {
+  margin: 0 10px;
+  font-size: 2.5rem;
+  display: inline-block;
   color: #0dafde;
+}
+.about .container .title h1 {
+  display: inline-block;
+  text-transform: uppercase;
 }
 .about .container .us {
   font-size: 20px;
@@ -35,6 +41,12 @@
 }
 .about .container .us i {
   color: #0dafde;
+}
+.about .container .us a {
+  color: #000;
+}
+.about .container .us a:hover {
+  text-decoration: none;
 }
 .about .container .cont-img img {
   max-width: 100%;
@@ -58,10 +70,11 @@
   max-width: 100%;
 }
 .about .container .cont .card-info .text {
-  bottom: -100%;
+  bottom: -200%;
   left: 0;
   right: 0;
   width: 100%;
+  padding: 5px;
   position: absolute;
   background-color: #0aacdba3;
   transition: all 0.4s ease-in-out;
@@ -77,19 +90,26 @@
   display: inline-block;
   margin-bottom: 0;
 }
-.about .container .cont .card-info .text p i {
+.about .container .cont .card-info .text i {
   color: #575989;
+  display: inline-block;
 }
 
 /******** end style about ********/
 /******** start style contact ********/
-.contact .title h1 {
+.contact .title {
   margin: 20px 0;
   text-align: center;
-  text-transform: uppercase;
 }
-.contact .title h1 i {
+.contact .title i {
+  margin: 0 10px;
+  font-size: 2.5rem;
+  display: inline-block;
   color: #0dafde;
+}
+.contact .title h1 {
+  display: inline-block;
+  text-transform: uppercase;
 }
 .contact form {
   height: 600px;

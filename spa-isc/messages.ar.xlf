@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="091ad013dbe4e623f472cea0d357d420300cd47c" datatype="html">
+        <source>Home<x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>(current)<x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target>الرئيسية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aa4da924506fa8a7942007a529cc2ec8d500a093" datatype="html">
+        <source>Servers</source>
+        <target>الخدمات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="004b222ff9ef9dd4771b777950ca1d0e4cd4348a" datatype="html">
+        <source>About</source>
+        <target>نبذه عنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="013acfd8797bf5ade4a15c71fa24178f913c4cae" datatype="html">
+        <source>Blog</source>
+        <target>مدونة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8380d9eff8613c0bc58edc7cebc2aa72e17b11e3" datatype="html">
+        <source>Page</source>
+        <target>صفحة</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6498fe318720fee842c6cb2ae566f0e52bec7acb" datatype="html">
+        <source>ar</source>
+        <target>En</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
+        <source>Home</source>
+        <target>الرئيسية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="98618249c5dbe05f69cf6e769c67827a7c9398c8" datatype="html">
+        <source>Serves</source>
+        <target>الخدمات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="02e9e69ddcbf93de9fd38bc4d0f312142658610d" datatype="html">
+        <source>Contact Us</source>
+        <target>تواصل معنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b51b8af7e7dac2e758b87705b2c8ad072af3e4a6" datatype="html">
+        <source>AR</source>
+        <target>العربية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e66790216b2995d999ff7568501f718572e0045f" datatype="html">
+        <source>Link 1</source>
+        <target>رابط 1</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="97740fff3724d150d2cba1271a5c94024fa884ad" datatype="html">
+        <source>Link 2</source>
+        <target>رابط 2</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e8ec63624c5d01ed09673b55006f7d0aaa0117f2" datatype="html">
+        <source>Link 3</source>
+        <target>رابط 3</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fe8ff1779ad0174fdea56f19a017c4d584dd3da3" datatype="html">
+        <source>Link 4</source>
+        <target>رابط 4</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d29764bcbaad3ef69b6be92be35bdf25972ce246" datatype="html">
+        <source>Follow</source>
+        <target>تابعنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5da4abd7ac6379f701b8b6a4905662c101c7ce61" datatype="html">
+        <source>Launcing</source>
+        <target>الاطلاق</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ab076bcd2b477157c26f96ca5f3bbf5a67a785a8" datatype="html">
+        <source>
+            A Real Estate Agen&apos;ts
+            <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br/&gt;"/>
+            tech expericne
+        </source>
+        <target>وكلاء العقارات الخبرة التقنية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="65fab8655bd60dd9c296c21d1a50bdadf769f0e3" datatype="html">
+        <source>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab sint repellat reprehenderit,
+          pariatur ratione in porro, laudantium nesciunt rerum consectetur fugit et dolore unde aperiam recusandae ea,
+          distinctio quaerat placeat!
+        </source>
+        <target>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+            إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c46a038bca00e35ebd895f601726ee5086cf9e77" datatype="html">
+        <source>Get Start</source>
+        <target>الي البدء</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1c33e53383c1d8e87d33c51ec5ad951697c05fc1" datatype="html">
+        <source>Best Place</source>
+        <target>افضل مكان</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fea2268908923716cfde2870bada44b02663ce72" datatype="html">
+        <source>
+            Fast Securte and Always
+        </source>
+        <target>الحمايه السريعة و الدئما</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="15cba848aff101221fe18512cbe982b320710613" datatype="html">
+        <source>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab sint repellat
+          reprehenderit, pariatur ratione in porro, laudantium nesciunt rerum consectetur fugit et dolore unde
+          aperiam recusandae ea, distinctio quaerat placeat!
+        </source>
+        <target>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+            إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.
+        </target>  
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7f390118762e2d9bd3757f398682f4fa0c0827c7" datatype="html">
+        <source>Content Us</source>
+        <target>تواصل معنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/home/home.component.html</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1e617f4b043f2a77525a3a070fb687f8864af879" datatype="html">
+        <source>
+            servers
+        </source>
+        <target>الخدمات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0a11881a3a4e3b5e9ec24cdf730b865678be72e0" datatype="html">
+        <source>
+            Websit
+        </source>
+        <target>مواقع الانتر نت</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9c1b342cb36736db74f2f041f7ce54e73ca7da60" datatype="html">
+        <source>item 1</source>
+        <target>رابط 1</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a5b965cfbdc8e62ad1e1a40d210a8e1dc6204ef3" datatype="html">
+        <source>item 2</source>
+        <target>رابط 2</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="29d90b5ec6249d851a6a8e4efe0c7a05f8ec4be1" datatype="html">
+        <source>item 3</source>
+        <target>رابط 3</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b5c4a43abf7e8721ce6673a7423a41e3b3a58138" datatype="html">
+        <source>item 4</source>
+        <target>رابط 4</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="81121450628e8fa71aea5a15a16b9b24ce283e36" datatype="html">
+        <source>
+            Mobil app
+        </source>
+        <target>تطبيقات الموبايل</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d60c80e7cb6ec08c7f7bcffde4c2d9a4bd4226bf" datatype="html">
+        <source>
+            security
+        </source>
+        <target>الحماية</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fd685fc6cf0617278c66ee78d740a0aa96996d67" datatype="html">
+        <source>
+            Hosting
+        </source>
+        <target>الاستضافه</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/servers/servers.component.html</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="deb192623e479390a7636375e10d431f71a6016f" datatype="html">
+        <source>
+            About
+        </source>
+        <target>نبذه عنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="91c1ce1002cd6b4329ebb2587b90990260e0b9bd" datatype="html">
+        <source>
+            who we are
+        </source>
+        <target>من نحن</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4474a016a3359d209624f24ba025967b20359370" datatype="html">
+        <source>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit molestias accusantium similique nesciunt minus
+            aut
+            non, quod nihil corporis odit ab obcaecati repellendus? Voluptate omnis at, eveniet voluptatum expedita alias?
+        </source>
+        <target>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+          إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6c372da06c7323e6dd4bcbb3a8ed11d4c7f9e6db" datatype="html">
+        <source>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates incidunt
+        </source>
+        <target>
+            هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث إضافة إلى زيادة عدد الحروف
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c88c1b85d9a9629b3b351a420f17827adb645e80" datatype="html">
+        <source>
+            Contact us
+        </source>
+        <target>تواصل معنا</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="596d7a2a889fac10c2cf9b0a73b01e4471fa6a94" datatype="html">
+        <source>emil</source>
+        <target>البريد الاكتروني</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4c47b69693858b1da6eba8b99b358b0d331312a8" datatype="html">
+        <source>address</source>
+        <target>العنوان</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8865ed3834a850ae6123ce54f380aac3f0b88fe2" datatype="html">
+        <source>Message:</source>
+        <target>رساله:</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/about/about.component.html</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="96687c0bb1618a05f053f678338684479bdfd614" datatype="html">
+        <source>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas, blanditiis? Aut dolore quibusdam
+            neque magnam aliquam
+        </source>
+        <target>
+          هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a3a3b1c534238915ded9cb08572e8f3ce69b91d2" datatype="html">
+        <source>twitter</source>
+        <target>تويتر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="eb0b068b28f551b40e420e7f9f570fa1ca9c2fb5" datatype="html">
+        <source>facebook</source>
+        <target>فيس بوك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="836f64ba877c92bdecc5305ad04d4a65181bcf24" datatype="html">
+        <source>Stack overflow</source>
+        <target>ستاك</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9ef9c3cb3738e70630c4943e4e16ae95e3682242" datatype="html">
+        <source>
+            Collapsible Group Item
+        </source>
+        <target>سوال من واحد تافه بس هنرد عليه</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2148f4fea586eedc4cd9768053a88856b434e71d" datatype="html">
+        <source>
+            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf
+            moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
+            Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda
+            shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea
+            proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim
+            aesthetic synth nesciunt you probably haven&apos;t heard of them accusamus labore sustainable VHS.
+        </source>
+        <target>
+          هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.
+          إذا كنت تحتاج إلى عدد أكبر من الفقرات يتيح لك مولد النص العربى زيادة عدد الفقرات كما تريد، النص لن يبدو مقسما ولا يحوي أخطاء لغوية، مولد النص العربى مفيد لمصممي المواقع على وجه الخصوص، حيث يحتاج العميل فى كثير من الأحيان أن يطلع على صورة حقيقية لتصميم الموقع.
+          ومن هنا وجب على المصمم أن يضع نصوصا مؤقتة على التصميم ليظهر للعميل الشكل كاملاً،دور مولد النص العربى أن يوفر على المصمم عناء البحث عن نص بديل لا علاقة له بالموضوع الذى يتحدث عنه التصميم فيظهر بشكل لا يليق.
+          هذا النص يمكن أن يتم تركيبه على أي تصميم دون مشكلة فلن يبدو وكأنه نص منسوخ، غير منظم، غير منسق، أو حتى غير مفهوم. لأنه مازال نصاً بديلاً ومؤقتاً.
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5cb22dac71ec6179a519428f3b22fcab15141002" datatype="html">
+        <source>
+            Collapsible Group Item 
+        </source>
+        <target>سوال من واحد تافه بس هنرد عليه</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">112</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/blog/blog.component.html</context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4ad82b3aea899772ecbde41029e74b5f66ee9f8c" datatype="html">
+        <source>
+            Some time an error occurs!
+            If you are a genius solve this error
+        </source>
+        <target>
+          ساعات يعني بيحصل كده غلطة بس لو انت فتيك اوي حلها
+        </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/component/contact/contact.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
