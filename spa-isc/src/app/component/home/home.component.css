@@ -9,11 +9,44 @@
 /*Start Variables Font*/
 :host {
   display: block;
+  position: relative;
+}
+:host .overlay {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2000;
+  display: none;
+  position: absolute;
+  text-align: center;
+  background-color: #fff;
+  border-top: 1px solid #e4e4e4;
+}
+:host .overlay h2 {
+  margin: 405.5px 0;
+  display: inline-block;
+  color: #0dafde;
+}
+:host .overlay i {
+  font-size: 30px;
+  margin-left: 15px;
+  display: inline-block;
+  color: #0dafde;
+  animation: rote 1s linear infinite;
 }
 
+@keyframes rote {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
 /******** start style content ********/
 .content-0, .content-1, .content-2, .content-3 {
-  margin: 120px 0;
+  margin: 50px 0;
 }
 .content-0 .img, .content-1 .img, .content-2 .img, .content-3 .img {
   text-align: center;
