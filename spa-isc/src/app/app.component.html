@@ -1,14 +1,3 @@
-<!-- start overflow -->
-<div class="overflow d-flex justify-content-center" *ngIf="onload">
-    <div class="lay">
-        <h3>
-            Loading
-            <i class="far fa-cog"></i>
-        </h3>
-    </div>
-</div>
-<!-- end overflow -->
-
 <!-- Start Header -->
 <header [class.active]="scrollDown > 90">
     <!-- Start Nav-Bar Bootstrap 4 -->
@@ -22,7 +11,7 @@
             </button>
             
             <div class="collapse navbar-collapse dir-right" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
+                <ul class="navbar-nav">
                     <li class="nav-item">
                         <a class="nav-link" routerLink='' i18n>Home<span class="sr-only">(current)</span></a>
                     </li>

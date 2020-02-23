@@ -76,6 +76,9 @@ header nav .navbar-brand.active, header nav .navbar-brand:hover {
 header nav .navbar-brand.active::before, header nav .navbar-brand:hover::before {
   opacity: 1;
 }
+header nav .navbar-nav {
+  margin-left: auto;
+}
 header nav .navbar-nav li {
   margin: 5px 15px;
 }

@@ -28,6 +28,13 @@
     padding-right: 0;
 } */
 
+/* start style-ar app-root */
+.navbar-nav {
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}
+/* end style-ar app-root */
+
 /* start style app-servers */
 .servers .websit ul li::before, .servers .app-mobil ul li::before, .servers .securt ul li::before, .servers .host ul li::before {
     display: none !important;
