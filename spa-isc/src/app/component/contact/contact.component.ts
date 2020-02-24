@@ -4,7 +4,7 @@ import { trigger, transition, style, animate } from '@angular/animations';
 @Component({
   selector: 'app-contact',
   templateUrl: './contact.component.html',
-  styleUrls: ['./contact.component.css'],
+  styleUrls: ['./contact.component.css', '../../app.component.ar.css'],
   animations: [
     trigger('overlay', [
       transition('void => *', [

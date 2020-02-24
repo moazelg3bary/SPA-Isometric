@@ -4,7 +4,7 @@ import { trigger, transition, style, animate, group, query } from '@angular/anim
 @Component({
   selector: "app-root",
   templateUrl: "./app.component.html",
-  styleUrls: ["./app.component.css"],
+  styleUrls: ["./app.component.css", 'app.component.ar.css']
 })
 export class AppComponent implements AfterViewChecked {
 
